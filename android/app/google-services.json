@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "367045018956",
+    "firebase_url": "https://quizmer.firebaseio.com",
+    "project_id": "quizmer",
+    "storage_bucket": "quizmer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367045018956:android:07c30d0fd60b9fc047fbe9",
+        "android_client_info": {
+          "package_name": "com.mostefaoui.quizmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367045018956-lb5059kh16512gdec4s7e00lk3e3duaf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeSMLXd5I-SsPT0MYqBhY9sBeCBQg4gwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367045018956-lb5059kh16512gdec4s7e00lk3e3duaf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

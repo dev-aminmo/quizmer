@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+   <!-- <item android:drawable="@android:color/white" /> -->
+    <!--   <item android:drawable="@color/my_fok" />-->
+    <!--   <item android:drawable="@drawable/ic_bgn" />-->
+
+     <!--<com.airbnb.lottie.LottieAnimationView
+         android:id="@+id/animation_view"
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:layout_gravity="center"
+         app:lottie_autoPlay="true"
+         app:lottie_colorFilter="@color/my_fok"
+         app:lottie_fileName="book.json"
+         app:lottie_loop="true"/>-->
+     <!-- You can insert your own image assets here -->
+    <!--  <item>
+        <bitmap
+
+            android:gravity="center"
+            android:src="@drawable/icimage" />
+   </item>
+-->
+</layer-list>
